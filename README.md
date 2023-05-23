@@ -1,3 +1,11 @@
+## Jokes API
+
+Web application using Nextjs and the OpenAI API. This is a very simple application that allows you to generate jokes from a text. This example uses the OpenAI model text-davinci-003 so we will be able to receive intelligent responses.
+
+### Requirements
+- $ npm install openai
+- Create new api key from: [openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
